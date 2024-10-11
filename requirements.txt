@@ -1,0 +1,12 @@
+ultralytics
+torch
+torchvision
+shutil
+yaml
+xml
+numpy
+Pillow
+matplotlib
+opencv-python
+scikit-learn
+timm
